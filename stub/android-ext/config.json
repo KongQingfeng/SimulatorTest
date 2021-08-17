@@ -1,0 +1,15 @@
+{
+    "header": {},
+    "data": {
+        "pclog_interval": 30,
+        "pclog_upload_interval": 30,
+        "agent_into_upload_interval": 30,
+        "get_server_config_interval": 30,
+        "typing_recording_interval": 10,
+        "latest_version": "1.0.0.0",
+        "ng_app_list": [],
+        "ok_app_list": [],
+        "ng_url_list": [],
+        "ok_url_list": []
+    }
+}
